@@ -1,2 +1,2 @@
 # plataforma-tools
-Projeto que criar infraestrutura na digitalocean usando terraform
+Projeto que criar infraestrutura na digitalocean usando terraform.
